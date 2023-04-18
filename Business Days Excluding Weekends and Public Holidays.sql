@@ -1,5 +1,5 @@
-Theme - Find Business Days Excluding Weekends and Public Holidays from the given data we have find number of days took to ticket close the ticket , given created date and resolved date of ticket
-exclude business days and holidays , only we have to consider the business days to took to close the ticket.
+Theme - Find Business Days Excluding Weekends & Public Holidays from the given data we have find number of days took to ticket close the ticket , given created date & resolved date of ticket
+exclude business days & holidays , only we have to consider the business days to took to close the ticket.
 
 # Insert Script 
 create table tickets
