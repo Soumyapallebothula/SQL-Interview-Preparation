@@ -4,7 +4,7 @@ You want to find candidates who are proficient in Python, Tableau, and PostgreSQ
 all of the required skills for the job. Sort the output by candidate ID in ascending order
 
 Assumption:
-There are no duplicates in the candidates table.
+\# There are no duplicates in the candidates table.
 ---------------------------------------
 | Column Name      | Type             | 
 | ---------------- | ---------------- | 
@@ -33,7 +33,7 @@ Output:
 | 123          |
 ----------------
 
---Solution:
+Solution:
 
 
 ```sql
