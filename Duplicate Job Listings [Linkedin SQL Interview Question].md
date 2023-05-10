@@ -1,5 +1,7 @@
 Assume you are given the table below that shows job postings for all companies on the LinkedIn platform. Write a query to get the number of companies that have posted duplicate job listings.
 
+[QNS LINK](https://datalemur.com/questions/duplicate-job-listings)
+
 Clarification:
 Duplicate job listings refer to two jobs at the same company with the same title and description.
 
